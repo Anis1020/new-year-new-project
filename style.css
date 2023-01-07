@@ -13,6 +13,9 @@
     background-color: aqua;
     color: white;
 }
+.banner-text > button{
+    margin-top: 10px;
+}
 header{
     
 }
@@ -69,8 +72,8 @@ header{
     margin-top: 30px;
 }
 .icons{
-    width: 1000px;
-    text-align: center;
+  padding-right: 100px;
+  
    
 }
 .contact{
