@@ -68,12 +68,12 @@ ul li{
     font-size: 15px;
     font-family: sans-serif;
 }
-.some-word ol{
+.some-word ul{
      
 }
-.some-word ol li{
-    list-style-type: circle;
-    font-size: 12px;
+.some-word ul li{
+  
+     font-size: 12px;
 }
 .section-title{
     text-align: center;
