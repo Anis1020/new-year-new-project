@@ -4,5 +4,8 @@
 }
 .banner-section{
     display: flex;
-    
+
+}
+.banner-img{
+    width: 250px;
 }
