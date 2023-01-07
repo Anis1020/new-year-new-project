@@ -68,11 +68,9 @@ ul li{
     font-size: 15px;
     font-family: sans-serif;
 }
-.some-word ul{
-     
-}
+
 .some-word ul li{
-  
+    list-style: none;
      font-size: 12px;
 }
 .section-title{
